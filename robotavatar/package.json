@@ -2,7 +2,7 @@
   "name": "robotavatar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Chudalu.github.io/robot_avatar",
+  "homepage": "https://Chudalu.github.io/robotavatar",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
