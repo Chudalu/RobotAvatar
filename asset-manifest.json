@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/robotavatar/static/css/main.75b16bfc.chunk.css",
-    "main.js": "/robotavatar/static/js/main.fc3638e2.chunk.js",
-    "main.js.map": "/robotavatar/static/js/main.fc3638e2.chunk.js.map",
-    "runtime-main.js": "/robotavatar/static/js/runtime-main.db9503f6.js",
-    "runtime-main.js.map": "/robotavatar/static/js/runtime-main.db9503f6.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/robotavatar/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.0aaa0eba.chunk.js": "/robotavatar/static/js/2.0aaa0eba.chunk.js",
-    "static/js/2.0aaa0eba.chunk.js.map": "/robotavatar/static/js/2.0aaa0eba.chunk.js.map",
-    "index.html": "/robotavatar/index.html",
-    "precache-manifest.a97877b886fc18641c12676855957424.js": "/robotavatar/precache-manifest.a97877b886fc18641c12676855957424.js",
-    "service-worker.js": "/robotavatar/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/robotavatar/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.75b16bfc.chunk.css.map": "/robotavatar/static/css/main.75b16bfc.chunk.css.map",
-    "static/js/2.0aaa0eba.chunk.js.LICENSE.txt": "/robotavatar/static/js/2.0aaa0eba.chunk.js.LICENSE.txt"
+    "main.css": "/RobotAvatar/static/css/main.75b16bfc.chunk.css",
+    "main.js": "/RobotAvatar/static/js/main.ea5187b4.chunk.js",
+    "main.js.map": "/RobotAvatar/static/js/main.ea5187b4.chunk.js.map",
+    "runtime-main.js": "/RobotAvatar/static/js/runtime-main.767f9629.js",
+    "runtime-main.js.map": "/RobotAvatar/static/js/runtime-main.767f9629.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/RobotAvatar/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0aaa0eba.chunk.js": "/RobotAvatar/static/js/2.0aaa0eba.chunk.js",
+    "static/js/2.0aaa0eba.chunk.js.map": "/RobotAvatar/static/js/2.0aaa0eba.chunk.js.map",
+    "index.html": "/RobotAvatar/index.html",
+    "precache-manifest.2d79878eac76c557c6c34ab1b9f4305d.js": "/RobotAvatar/precache-manifest.2d79878eac76c557c6c34ab1b9f4305d.js",
+    "service-worker.js": "/RobotAvatar/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/RobotAvatar/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.75b16bfc.chunk.css.map": "/RobotAvatar/static/css/main.75b16bfc.chunk.css.map",
+    "static/js/2.0aaa0eba.chunk.js.LICENSE.txt": "/RobotAvatar/static/js/2.0aaa0eba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.db9503f6.js",
+    "static/js/runtime-main.767f9629.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.0aaa0eba.chunk.js",
     "static/css/main.75b16bfc.chunk.css",
-    "static/js/main.fc3638e2.chunk.js"
+    "static/js/main.ea5187b4.chunk.js"
   ]
 }
